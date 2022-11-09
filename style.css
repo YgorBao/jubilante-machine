@@ -1,0 +1,56 @@
+body{
+    margin: 0%; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+    img{
+        width:200px;
+        height: 200px;
+        border: solid 5px rgb(25, 81, 134);
+        position: relative;
+        border-radius: 50%;
+        bottom: 60px;
+
+    }
+
+    aside{
+        font-size: 1.30rem;
+        min-height: 100%;
+        text-align: center;
+        width: 20%;
+        height: 100vh;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        background-color: rgb(237, 161, 20);
+    }
+
+    h1{
+        font-size: 100px;
+        margin-bottom: 0;
+    }
+
+    .container{
+        display: flex;
+
+    }
+    
+    main{
+        justify-self: flex-end;
+        text-align: center;
+        margin-left: 5vh;
+        margin-top: 18vh;
+    }
+    .TEXTOPRIN{
+        font-size: 2rem;
+
+    }
+    
+    .bottomside:hover{
+        color: rgb(239, 239, 239)
+    }
+
+    span{
+        color: #b03434;
+        }
