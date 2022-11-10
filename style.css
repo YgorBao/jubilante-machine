@@ -35,7 +35,16 @@ body{
         display: flex;
 
     }
-    
+    .frase{
+        position: absolute;
+        margin-top: 350px;
+        margin-left: 10px;
+        color: rgb(161, 153, 153);
+        font-size: 14px;
+        top: 40px;
+        
+    }
+
     main{
         justify-self: flex-end;
         text-align: center;
